@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "dynamic_link",
+    "package_name": "com.dynamic_link",
+    "sha256_cert_fingerprints":
+    ["C7:CE:96:22:AE:2E:EA:C1:AD:4A:52:E9:E8:0A:CB:46:B0:1B:0A:73:03:B6:D2:86:A7:A6:75:19:6F:C6:A1:7F"]
+  }
+}]
